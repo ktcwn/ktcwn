@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Katie Cowan
 ---
 
-- 🌱 I’m currently working on a **MERN stack web application!**
+- 🌱 I’m currently working on a **Tip Calculator Micro Project!**
 - 📫 How to reach me: ktcwn.dev@gmail.com
 - ⚡ Languages: **JavaScript, ES6, HTML5, CSS3, Mongo, SQL**
 - ⚡ Frameworks: **React, jQuery, Bootstrap, Express.js, Node.js, Jest**
